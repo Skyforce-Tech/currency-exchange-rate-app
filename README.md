@@ -8,3 +8,7 @@ The base currency for this app to compare the rates saved is EURO.
 We can get rate for a specific currency for a specified date from our application.
 
 Swagger documentation:
+
+Response Snapshots:
+SAVE_RATES
+![SAVE_RATES](https://github.com/Skyforce-Tech/currency-exchange-rate-app/blob/master/docs/images/saveRates.PNG?raw=true)
