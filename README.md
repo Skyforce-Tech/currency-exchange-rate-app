@@ -10,5 +10,7 @@ We can get rate for a specific currency for a specified date from our applicatio
 Swagger documentation:
 
 Response Snapshots:
-SAVE_RATES
+<br><br>
 ![SAVE_RATES](https://github.com/Skyforce-Tech/currency-exchange-rate-app/blob/master/docs/images/saveRates.PNG?raw=true)
+![SAVE_RATES_H2](https://github.com/Skyforce-Tech/currency-exchange-rate-app/blob/master/docs/images/saveRates_H2_DB.PNG?raw=true)
+![GetRatesForSpecificDate](https://github.com/Skyforce-Tech/currency-exchange-rate-app/blob/master/docs/images/getRatesForSpecificDate.PNG?raw=true)
