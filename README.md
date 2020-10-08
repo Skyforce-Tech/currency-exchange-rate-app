@@ -8,10 +8,13 @@ The base currency for this app to compare the rates saved is EURO.
 We can get rate for a specific currency for a specified date from our application.
 
 Swagger documentation: http://localhost:8080/swagger-ui.html
+<br>
 Actuator health: http://localhost:8080/actuator/health
+<br>
 HAL Browser: http://localhost:8080/browser/index.html
-
+<br>
 Note: HAL(Hypertext Application Language) browser searches for APIs and identifies the links. It shows the link on the screen so that we can easily browse through the API.
+<br>
 
 Response Snapshots:
 <br><br>
