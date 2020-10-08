@@ -7,7 +7,7 @@ currency-exchange-rate-app calls exchange-rate-api to save the last twelve month
 The base currency for this app to compare the rates saved is EURO.
 We can get rate for a specific currency for a specified date from our application.
 
-Swagger documentation: http://localhost:8080/swagger-ui.html
+Swagger documentation: http://localhost:8080/swagger-ui.html (Used Open api for our application)
 <br>
 Actuator health: http://localhost:8080/actuator/health
 <br>
