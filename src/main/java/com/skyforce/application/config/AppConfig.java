@@ -7,6 +7,7 @@ import org.springframework.web.client.RestTemplate;
 
 import com.skyforce.application.utilities.RateUtility;
 
+import brave.sampler.Sampler;
 import io.swagger.v3.oas.models.OpenAPI;
 import io.swagger.v3.oas.models.info.Info;
 
@@ -39,5 +40,10 @@ public class AppConfig {
 					.description(applicationDescription)
 					.version(applicationVersion)
 				);
+	}
+	
+	@Bean
+	public Sampler defaultSampler()  {  
+		return Sampler.ALWAYS_SAMPLE;
 	}
 }
